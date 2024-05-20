@@ -36,9 +36,7 @@ Also currently working as a <strong>Software Engineering Intern 👨‍💼<stro
 <!-- My GitHub Stats -->
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/anujkapoor7/anujkapoor7" title="Stats">
-  <img align="center" width=45% src="https://github-readme-stats.vercel.app/api?username=anujkapoor7&show_icons=true&hide_border=true&line_height=27&count_private=true&title_color=1a1d5c&text_color=050005&icon_color=050005&bg_color=c6c8f5" alt="AK's GitHub Stats" />
-</a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=anujkapoor7&theme=dark&hide_border=true&border_radius=12" alt="GitHub Streak" /></a>
 
 <a href="https://git.io/streak-stats" title="Streak">
   <img align="left"  width=45% src="https://github-readme-streak-stats.herokuapp.com/?user=anujkapoor7&theme=react&border=61DAFB&fire=f0e80c" alt="GitHub Streaks" />
