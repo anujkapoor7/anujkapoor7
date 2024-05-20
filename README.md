@@ -37,8 +37,4 @@ Also currently working as a <strong>Software Engineering Intern 👨‍💼<stro
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=anujkapoor7&theme=dark&hide_border=true&border_radius=12" alt="GitHub Streak" /></a>
-
-<a href="https://git.io/streak-stats" title="Streak">
-  <img align="left"  width=45% src="https://github-readme-streak-stats.herokuapp.com/?user=anujkapoor7&theme=react&border=61DAFB&fire=f0e80c" alt="GitHub Streaks" />
-</a>
  
