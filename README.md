@@ -22,6 +22,16 @@ If you're looking for someone to bring your web application ideas to life or jus
   <img src="https://img.shields.io/badge/Email%20Me%20🚀-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">
 </a>
 
+Or drop me an email at: **anuj0204kapoor@gmail.com**
+
+## ✍️ Check Out My Blogs!
+
+I write about engineering soft skills, frontend development tips, and best practices. 
+
+<a href="https://medium.com/@anuj0204kapoor">
+  <img src="https://img.shields.io/badge/Read%20My%20Blogs%20📖-00ab6c?style=for-the-badge&logo=medium&logoColor=white" alt="Read My Blogs">
+</a>
+
 <!-- Tech Stack I work with -->
 ## 🔧 Technologies & Tools
 ### Languages
