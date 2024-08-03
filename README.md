@@ -8,7 +8,9 @@
 Hey there 👋 My name is **Anuj Kapoor**<br><br>
 I'm a coding ninja 🥷 specializing in developing highly performant, maintainable, and scalable web applications. My superpowers include crafting SEO-friendly applications with React, Next.js, and Node.js. When I'm not busy squashing bugs 🐛, I'm probably sipping coffee ☕ and dreaming up new features to build.
 
-**Check out my latest project:** [OurCryptoTalk](https://web.ourcryptotalk.com/) 💹 - your go-to place for all things crypto!
+**Check out my latest projects:** 
+- [OurCryptoTalk](https://web.ourcryptotalk.com/) 💹 - your go-to place for all things crypto!
+- [Urban Crest Listings](https://listings.urban-crest.com/) 🏠 - a comprehensive real estate listing platform!
 
 <!-- Social Profiles -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anujkapoor7/)
